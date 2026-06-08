@@ -41,3 +41,4 @@ Proyek ini bertujuan untuk mengukur, menganalisis, dan membandingkan efisiensi w
 ## Video Penjelasan Proyek
 
 Penjelasan mengenai logika kode, kendala teknis, dan hasil analisis grafik perbandingan dapat diakses melalui tautan berikut:
+https://youtube.com/@devainsamperuru?si=4C2PdUo1t-4rv9E0
